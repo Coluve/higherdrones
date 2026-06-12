@@ -1,8 +1,12 @@
-# Risk Notes
+# Risk Notes — Higher Drones
 
-## Current risk level
+## Risk level
 
-Unknown.
+High
+
+## Primary risk notes
+
+Drone operations require operator, safety, location, airspace, insurance, and legal compliance review before paid operations.
 
 ## Watch areas
 
@@ -14,6 +18,8 @@ Unknown.
 - Domain/DNS settings
 - Regulated services
 - Unsupported claims
+- Insurance/licensing requirements
+- Safety-sensitive services
 
 ## Rule
 

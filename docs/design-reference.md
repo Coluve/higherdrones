@@ -112,3 +112,12 @@ Codex should update:
 Codex may update docs if needed.
 
 Open a PR only. Do not merge.
+
+## Current client-facing asset
+
+- `assets/higher-drones-showcase.svg` supports the refined static site with a cinematic project-showcase visual inspired by the mockup's altitude, lens, route, and media-card direction.
+- The asset is illustrative only and does not imply guaranteed flight, pilot availability, regulatory clearance, airspace approval, certification, insurance coverage, safety assurance, training, licensing, drone shows, payments, or booking functionality.
+
+## Refinement rationale
+
+The mockup's strongest measurable advantages are immediate visual distinctiveness, a large first-viewport promise, a persistent CTA, and scannable service modules. The refined page keeps those conversion advantages while replacing risky platform mechanics with a manually scoped contractor project showcase offer and explicit boundaries.

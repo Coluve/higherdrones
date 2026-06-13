@@ -58,6 +58,27 @@ Use Codex to improve the company website or docs based on this company context.
 
 In PR
 
+## WP-HIGHER-DRONES-CLIENT-FACING-REFINEMENT-v1
+
+- Date: 2026-06-13
+- Repo: Coluve/higherdrones
+- Objective: Build a client-facing static GitHub Pages website for the contractor project showcase package using the mockup direction and conservative drone-language constraints.
+- State before: DISCOVER_CURRENT_STATE
+- State after: EXECUTE_COMMIT
+- Risk tier: R1
+- Metric targeted: visible website update, mockup fidelity, clarity, conversion, performance, operational readiness, and claim safety
+- Preconditions: Repo had AGENTS.md, CNAME, source docs, reports, ledger, and `design/mockups/primary-mockup.png`, but no `index.html`, `style.css`, or client-facing website files on current main.
+- Permitted actions: R1 static HTML/CSS, local SVG asset, documentation updates, report, ledger, safe checks, commit, merge, and push.
+- Constraints: No forms, booking backend, payments, analytics, tracking, scripts, account system, pilot marketplace, training, licensing, drone-show service, regulatory claims, airspace claims, certification claims, safety claims, insurance claims, compliance claims, fake proof, or customer data collection.
+- Evidence requirements: Updated `index.html`, `style.css`, local asset, design reference, report, ledger, and validation output.
+- Verification: SVG XML parse check, prohibited-feature scan, risky-claim scan, `git diff --check`, and git status review.
+- Rollback: Revert this waypoint commit to remove the static website baseline.
+- Escalation policy: Proceed autonomously under user instruction for non-Colin subsidiaries; protect Colin's Tradework.
+- Obligation profile: Clarity, conversion, trust, performance, local SEO, operational readiness, and risk control.
+- Unmet obligations: No approved customer media, operator/compliance review, validated pricing, or delivery capacity metrics are available yet.
+- Estimated time to satisfy minutes: 120
+- Next waypoint: WP-HIGHER-DRONES-SHOWCASE-PACKAGE-SCOPE-v1
+
 # Waypoint Ledger Entry
 
 ## Waypoint ID

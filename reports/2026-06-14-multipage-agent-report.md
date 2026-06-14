@@ -33,3 +33,5 @@ No forms, payments, analytics, tracking, scripts, dependencies, backend logic, c
 ## Next recommended waypoint
 
 Collect permissioned proof assets and refine page copy around real delivery evidence.
+## Refinement pass
+- Expanded the scope, prepare, and proof pages with richer customer checklists, privacy guidance, quote-prep details, and claim-safe proof standards.

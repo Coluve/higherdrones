@@ -249,3 +249,15 @@ Run WP-MOCKUP-BASED-STATIC-WEBSITE-v1 in Codex.
 ## Status
 
 In PR
+
+## WP-PORTFOLIO-FRONTEND-POLISH-v1
+
+- Date: 2026-06-14
+- Repo: Coluve/higher-drones
+- Objective: Improve public frontend readiness through accessibility, metadata, brand polish, and motion-safety refinements.
+- State before: DISCOVER_CURRENT_STATE
+- State after: EXECUTE_COMMIT
+- Risk tier: R1
+- Metric targeted: accessibility, SEO/social preview readiness, visual polish, conversion clarity, performance, operational readiness
+- Verification: Static metadata inspection, accessibility affordance scan, prohibited-mechanics scan, git diff --check, and git status review.
+- Next waypoint: WP-HIGHER-DRONES-SHOWCASE-PACKAGE-SCOPE-v1

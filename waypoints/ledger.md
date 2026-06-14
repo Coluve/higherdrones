@@ -279,3 +279,15 @@ In PR
 - State after: CUSTOMER_RESOURCE_PAGES_REFINED
 - Risk tier: R1
 - Metric targeted: page usefulness, conversion clarity, claim safety, static performance, customer preparation quality
+
+## 2026-06-14 - WP-HIGHER-DRONES-SITE-REFINEMENT-v1
+
+- Waypoint ID: WP-HIGHER-DRONES-SITE-REFINEMENT-v1
+- State before: DISCOVER_CURRENT_STATE
+- State after: EXECUTE_COMMIT
+- Risk tier: R1
+- Objective: Refine Higher Drones into a stronger customer-facing project showcase media site while keeping drone-related language conservative and review-dependent.
+- Files changed: index.html, style.css, services.html, process.html, proof.html, boundaries.html, contact.html, reports/2026-06-14-site-refinement-agent-report.md, waypoints/ledger.md, with old scope.html and prepare.html removed.
+- Metric targeted: service clarity, conversion clarity, page usefulness, header/footer stability, mobile responsiveness, claim safety, static performance.
+- Verification: Static local link check, prohibited-mechanics scan, risky-claim scan, git diff --check, and browser render smoke test.
+- Next waypoint: WP-HIGHER-DRONES-PROOF-ASSET-COLLECTION-v1.

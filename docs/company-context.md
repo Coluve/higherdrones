@@ -1,38 +1,36 @@
 # Company Context — Higher Drones
 
-Status: Local service candidate with compliance review
+Status: Static public marketplace positioning with drone-specific review boundaries
 
 Domain:
 higherdrones.io
 
 Repository:
-Coluve/higherdrones
+Coluve/higher-drones
 
-Local service offer:
-Contractor project showcase package
+Core positioning:
+Higher Drones is a drone videography marketplace that connects clients with skilled aerial pilots for professional photography, video, and custom aerial projects.
 
-Target customer:
-Contractors, realtors, landlords, property owners, and local businesses
+Mission:
+Higher Drones exists to make professional aerial photography and videography easier to discover, compare, and book.
 
-Service area:
-Connecticut-first
+Primary audience:
+Clients seeking aerial photography, video, real estate media, event coverage, commercial visuals, and custom aerial project planning.
 
 Primary CTA:
-Request aerial project media
+Find a Drone Pilot
 
-Launch priority:
-Medium-high
+Secondary CTAs:
+Explore Aerial Work, Book a Shoot, Request a Custom Project, View Pilot Portfolios.
 
 Risk level:
 High
 
 Risk notes:
-Drone operations require operator, safety, location, airspace, insurance, and legal compliance review before paid operations.
+Drone work requires careful project review. Public pages must not make regulatory, airspace, certification, safety, insurance, legal, approval, operating-condition, availability, or capture-outcome claims.
 
-Platform pivot trigger:
-Pivot after legal/operational compliance is confirmed and paid showcase packages are repeatable.
+Current public-site boundary:
+The site may present Higher Drones as a premium drone videography marketplace for discovering pilots, exploring portfolios, comparing services, preparing booking requests, and planning custom aerial projects. It must not add forms, payments, subscriptions, commissions, affiliate plans, merchandise revenue, data services, dashboards, analytics, tracking, backend logic, automatic booking, automatic pilot dispatch, or unsupported drone-operation claims.
 
 Instruction:
-Use AGENTS.md as the operating contract. Follow the waypoint structure. Default to local-service-first planning and static-site-safe improvements.
-
-Do not build platform features until the local service offer is clear, manually sellable, and approved for expansion.
+Use AGENTS.md as the operating contract. Follow the waypoint structure. Keep the public site visual, premium, static, accessible, responsive, and conservative.

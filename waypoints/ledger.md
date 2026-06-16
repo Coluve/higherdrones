@@ -291,3 +291,15 @@ In PR
 - Metric targeted: service clarity, conversion clarity, page usefulness, header/footer stability, mobile responsiveness, claim safety, static performance.
 - Verification: Static local link check, prohibited-mechanics scan, risky-claim scan, git diff --check, and browser render smoke test.
 - Next waypoint: WP-HIGHER-DRONES-PROOF-ASSET-COLLECTION-v1.
+
+## 2026-06-15 - WP-HIGHER-DRONES-VIDEOGRAPHY-MARKETPLACE-REPOSITION-v1
+
+- Waypoint ID: WP-HIGHER-DRONES-VIDEOGRAPHY-MARKETPLACE-REPOSITION-v1
+- State before: DISCOVER_CURRENT_STATE
+- State after: EXECUTE_COMMIT
+- Risk tier: R1
+- Objective: Reposition Higher Drones as a premium drone videography marketplace rather than a subscription-heavy platform, data service, affiliate business, complicated SaaS dashboard, or contractor-showcase-only service page.
+- Files changed: index.html, style.css, services.html, pilots.html, gallery.html, book.html, custom-projects.html, pilot-resources.html, about.html, assets/higher-drones-marketplace.svg, docs/company-context.md, docs/local-service-offer.md, docs/design-reference.md, reports/2026-06-15-platform-reposition-agent-report.md, waypoints/ledger.md, with old process/proof/boundaries/contact pages removed.
+- Metric targeted: marketplace clarity, booking clarity, portfolio discovery, pilot profile clarity, visual polish, responsive design, accessibility, static performance, and claim safety.
+- Verification: Static local link check, prohibited-mechanics scan, internal-language scan, risky drone-claim scan, SVG parse check, git diff --check, and browser render smoke test.
+- Next waypoint: WP-HIGHER-DRONES-PILOT-PROFILE-TEMPLATE-v1.

@@ -1,70 +1,41 @@
-# Local Service Offer — Higher Drones
+# Public Offer — Higher Drones
 
-## First sellable local service offer
+## Public positioning
 
-Contractor project showcase package
+Premium drone videography marketplace concept
 
-## Target customer
+## Core positioning
 
-Contractors, realtors, landlords, property owners, and local businesses
+Higher Drones is a drone videography marketplace that connects clients with skilled aerial pilots for professional photography, video, and custom aerial projects.
 
-## Problem solved
+## Mission
 
-This offer gives a local customer a clear, practical service they can request without needing a full software platform first.
+Higher Drones exists to make professional aerial photography and videography easier to discover, compare, and book.
 
-## Included services
+## Customer-facing outcomes
 
-TBD by human operator after local fulfillment capacity is confirmed.
+- Find drone pilots.
+- Explore aerial portfolios.
+- Book drone services through a reviewed planning request.
+- Compare packages and deliverable scopes.
+- Request custom aerial projects.
+- Learn before booking.
+- Support aerial creators with portfolio and project-fit resources.
 
-## Exclusions
+## Static-site exclusions
 
-- No unsupported legal, financial, health, safety, privacy, or regulatory claims.
-- No payment, booking, account, or platform functionality until approved.
-- No services outside confirmed fulfillment capacity.
+- No forms, payments, subscriptions, commissions, affiliate plans, merchandise revenue, data services, dashboards, account systems, analytics, tracking, APIs, or backend logic.
+- No automatic booking engine, calendar, automatic pilot assignment, bidding system, customer upload flow, or marketplace transaction flow.
+- No regulatory, airspace, certification, safety, insurance, legal, approval, operating-condition, availability, or capture-outcome claims.
+- No fake pilot profiles, fake galleries, fake testimonials, fake guarantees, fake credentials, or unsupported project proof.
 
-## Intake questions
+## Content standards
 
-- Who is the customer?
-- Where is the service needed?
-- What outcome do they want?
-- What timeline do they have?
-- What budget or quote range is expected?
-- Are there photos, measurements, files, or examples?
-- Are there access, safety, insurance, or permission requirements?
-- What would make this job successful?
+- Use portfolio and planning language.
+- Treat “book” as a request to begin review, not as confirmed scheduling or payment.
+- State that project context, creator availability, permissions, and practical constraints require review.
+- Keep private property, customer, attendee, and location details out of first-contact guidance.
 
-## Delivery checklist
+## Next safe waypoint
 
-- Confirm customer need.
-- Confirm service area.
-- Confirm scope.
-- Confirm exclusions.
-- Confirm quote model.
-- Confirm responsible operator or contractor.
-- Complete work.
-- Collect before/after evidence where appropriate.
-- Request review or testimonial.
-- Record lessons learned.
-
-## Quote model
-
-TBD. Start with manual quote until repeat jobs reveal a reliable package price.
-
-## Trust/proof assets needed
-
-- Before/after photos where appropriate.
-- Short service description.
-- Customer review or testimonial.
-- Service area.
-- Simple process explanation.
-- Clear contact path.
-
-## Cross-sell paths
-
-- Colin’s Tradework can refer relevant customers when the service is adjacent.
-- Coluve can feature the service once the offer is clear and serviceable.
-- Other subsidiaries may bundle this service after manual demand is proven.
-
-## Platform pivot trigger
-
-Pivot after legal/operational compliance is confirmed and paid showcase packages are repeatable.
+Create an approved pilot profile and portfolio content template that distinguishes illustrative examples from permissioned real creator content.

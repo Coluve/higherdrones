@@ -300,6 +300,59 @@ main,
   box-shadow: var(--shadow);
 }
 
+@media (min-width: 901px) {
+  .hero {
+    grid-template-columns: minmax(0, 760px) minmax(320px, 1fr);
+    gap: clamp(28px, 3.4vw, 42px);
+    min-height: clamp(460px, calc(100vh - 74px), 600px);
+    padding: clamp(26px, 3.2vw, 42px) 0 clamp(28px, 3.4vw, 44px);
+  }
+
+  .hero-copy {
+    max-width: 760px;
+  }
+
+  .hero h1 {
+    max-width: 760px;
+    margin-bottom: 16px;
+    font-size: clamp(2.55rem, 3.1vw, 4rem);
+    line-height: 1;
+  }
+
+  .hero-text {
+    max-width: 690px;
+    font-size: clamp(0.98rem, 1.05vw, 1.1rem);
+  }
+
+  .hero-actions {
+    flex-wrap: nowrap;
+    gap: 10px;
+    margin: 18px 0 16px;
+  }
+
+  .hero-points {
+    gap: 10px;
+    margin-top: 16px;
+    max-width: 700px;
+  }
+
+  .hero-points div {
+    padding: 12px 13px;
+  }
+
+  .hero-points strong {
+    font-size: 0.86rem;
+  }
+
+  .hero-points span {
+    font-size: 0.8rem;
+  }
+
+  .hero-visual img {
+    max-height: min(42vh, 360px);
+  }
+}
+
 .intro-panel,
 .story-band,
 .final-cta {
